@@ -1,0 +1,7 @@
+Goals:
+  - Get documentation generation
+  - Get build scripts set up
+  
+Milestones
+  - Set-up a database with some sample tables
+  - Create a small website
